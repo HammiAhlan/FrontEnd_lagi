@@ -10,5 +10,5 @@ function isiRow(value) {
         .replace("Nama", value.nama)
         .replace("Jenis_donasi", value.jenis_donasi)
         .replace("Jumlah", value.jumlah)
-    addInner("iniTabel", content);
+    addInner("iniTabel", content);    
 }
